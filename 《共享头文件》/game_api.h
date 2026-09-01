@@ -2,10 +2,7 @@
 
 
 
-~~~cpp
-game_api.h共享头文件最终版。
 
-以下是汇总所有模块依赖的枚举、结构体、前置声明、常量、跨模块函数签名的完整共享头文件：
 
 #ifndef GAME_API_H
 #define GAME_API_H
